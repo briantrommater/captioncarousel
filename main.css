@@ -1,0 +1,33 @@
+#whole {
+    width: 33%;
+    margin: 0 auto;
+}
+
+h3 {
+    
+    color: blue;
+}
+
+body {
+
+}
+
+.carousel-control-prev-icon {
+    z-index: 1;
+    color: black;
+    border-style: solid;
+    outline: black;
+    border: 2px black;
+    background: black;
+}
+
+.carousel-control-next-icon {
+    z-index: 1;
+    color: black;
+    border-style: solid;
+    outline: black;
+    border: 2px black;
+    background: black;
+}
+
+/* change height of image to adjust or reformat an image that isn't fitting */
