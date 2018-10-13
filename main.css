@@ -1,5 +1,15 @@
 #whole {
+    width: 100%
+    margin: 0 auto;
+}
+
+.portait {
     width: 33%;
+    margin: 0 auto;
+}
+
+.fullscn {
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -8,9 +18,10 @@ h3 {
     color: blue;
 }
 
-body {
-
+h4 {
+    color: green;
 }
+
 
 .carousel-control-prev-icon {
     z-index: 1;
